@@ -1,0 +1,36 @@
+#support {
+ margin-bottom: 5rem;
+}
+
+#support .bullet {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  margin-right: 8px;
+}
+
+#support .avatar-placeholder {
+  height: 32px;
+  color: rgba(255,255,255,.75);
+  text-align: center;
+  line-height: 32px;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: default;
+  width: 32px;
+  margin-right: 8px;
+  display: inline-block;
+}
+
+#support .avatar {
+  width: 32px;
+  margin-right: 8px;
+  display: inline-block;
+  border-radius: 50%;
+}

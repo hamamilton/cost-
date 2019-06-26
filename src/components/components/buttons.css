@@ -1,0 +1,8 @@
+a.btn.btn-floating i.fa {
+  display: inline-block;
+  width: inherit;
+  text-align: center;
+  color: #fff;
+  font-size: 1.25rem!important;
+  line-height: 47px;
+}

@@ -1,0 +1,33 @@
+.color-block {
+    text-align: center;
+    height: 130px;
+    color: #fff;
+    padding: 40px;
+}
+
+.color-block-dark {
+    height: 130px;
+    text-align: center;
+    color: #fff;
+    padding: 40px;
+}
+
+.color-block-dark h5 {
+    font-size: 1rem;
+}
+
+.dynamic-color .col-md-4 {
+    margin-bottom: 2rem;
+}
+
+.dynamic-color .col-md-4 div {
+    padding: 7px 20px 7px 20px;
+}
+
+.color-block h5 {
+    font-size: 1rem;
+}
+
+.dynamic-color p {
+    font-size: 0.75rem
+}

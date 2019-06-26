@@ -1,0 +1,21 @@
+#register .view {
+  background: url('http://mdbootstrap.com/img/Photos/Others/forest1.jpg') no-repeat center center;
+  background-size: cover;
+  height: 100vh;
+}
+
+#register .card {
+  background-color: rgba(255, 255, 255, 0.85);
+}
+
+#register h6 {
+  line-height: 1.7;
+}
+
+#register .form-check {
+  margin-bottom: 0!important;
+}
+
+#register .rgba-gradient {
+  background: -webkit-linear-gradient(98deg, rgba(22, 91, 231, 0.5), rgba(255, 32, 32, 0.5) 100%);
+}

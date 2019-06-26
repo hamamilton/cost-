@@ -1,0 +1,43 @@
+#posts {
+  background-color: #fff
+}
+
+#posts #home .view {
+  background: url("https://mdbootstrap.com/img/Photos/Others/img%20%2848%29.jpg") no-repeat center center;
+  background-size: cover;
+  height: 60vh;
+}
+
+#posts h1 {
+  letter-spacing: 8px;
+}
+
+#posts h5 {
+  letter-spacing: 3px;
+}
+
+#posts .hr-light {
+    border-top: 3px solid #fff;
+    width: 80px;
+}
+
+#posts footer.page-footer {
+  background-color: #6f7782;
+}
+
+#posts .btn-floating i {
+  font-size: 1.25rem;
+  line-height: 47px;
+  display: inline-block;
+  width: inherit;
+  text-align: center;
+  color: #fff;
+}
+
+#posts .top-nav-collapse {
+  background-color: #6f7782 !important;
+}
+
+#posts {
+  background-color: #eee;
+}
